@@ -31,6 +31,7 @@ _Join early subscribers and never miss a great native Mac app again. Unsubscribe
 **Getting Started**
 - [What Makes an App "Native"?](#what-makes-an-app-native)
 - [New to Mac? Start Here](#-new-to-mac-start-here)
+- [Featured](#-featured)
 
 **Categories**
 - 🤖 [AI Tools](#ai-tools)
@@ -114,6 +115,17 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <tr>
 <td width="64"><img src="resources/icons/tinycast.png" width="48" height="48" alt="TinyCast icon"></td>
 <td><strong><a href="https://tinycast.dev/">TinyCast</a></strong><br><sub>Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke.</sub></td>
+</tr>
+</table>
+
+---
+
+## ⭐ Featured
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/flow-diagram.png" width="48" height="48" alt="Flow Diagram icon"></td>
+<td><strong><a href="https://www.pointbluetech.com/flowdiagram/index.html?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Flow Diagram</a></strong><br><sub>Flow Diagram turns a messy photo or a quick sketch into a diagram you can edit, share and keep.</sub></td>
 </tr>
 </table>
 
